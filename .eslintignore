@@ -1,0 +1,6 @@
+// .eslintignore
+build/*
+dist/*
+public/*
+src/data/*
+webpack.config.js
